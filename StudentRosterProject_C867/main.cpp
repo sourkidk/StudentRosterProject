@@ -4,10 +4,8 @@
 int main() {
 
     cout << "----------------------------------------------" << std::endl;
-    cout << "C867 Scripting & Programming Applications" << std::endl;
     cout << "Built using C++ 14 Standard " << std::endl;
     cout << "By Keith Fletcher" << std::endl;
-    cout << "ID: 009224586  Program: BS Comp-Sci (5/1/22)" << std::endl;
     cout << "----------------------------------------------" << std::endl;
 
     //Array containing strings of student information.
